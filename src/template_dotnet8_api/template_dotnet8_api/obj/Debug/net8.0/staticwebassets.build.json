@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QOx89/mGFMJdDnMyrD99Gt+ISa9n7J4G7fpn03HDld0=",
+  "Source": "template_dotnet8_api",
+  "BasePath": "_content/template_dotnet8_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

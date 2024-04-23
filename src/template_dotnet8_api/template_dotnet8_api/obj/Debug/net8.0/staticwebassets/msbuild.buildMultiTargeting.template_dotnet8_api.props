@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\template_dotnet8_api.props" />
+</Project>
