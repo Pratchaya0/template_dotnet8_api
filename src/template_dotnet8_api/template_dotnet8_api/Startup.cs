@@ -79,7 +79,7 @@ namespace template_dotnet8_api
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMiddleware<RequestLoggingMiddleware>();
+            //app.UseMiddleware<RequestLoggingMiddleware>();
 
             app.UseSwaggerWithOutAuth(ProjectConfiguration);
 
